@@ -6,7 +6,7 @@ int main() {
     printf("Enter the height and width of the rectangle: ");
     scanf("%d %d", &height, &width);
     
-    //Write your code here
+    perimeter of the rectangle = (height + width)*2;
    
     printf("Perimeter of the rectangle: %d\n", perimeter);
 
